@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eai! 👋
 
-<!--
-**joseduardoamorim/joseduardoamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim
+- 🔭 Atualmente trabalhando com wordpress e PHP
+- 🌱 Apredendo Automações
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/joseduardoamorim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseduardoamorim&count_private=true&show_icons=true&theme=jolly&locale=pt-br" />
+</a>
+<a href="https://github.com/joseduardoamorimi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseduardoamorim&locale=pt-br&theme=jolly" />
+</a>
