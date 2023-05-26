@@ -22,3 +22,5 @@ Um pouco sobre mim
 </div>
 
 ##
+
+![snake gif](https://github.com/joseduardoamorim/joseduardoamorim/blob/output/github-contribution-grid-snake.svg)
