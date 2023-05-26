@@ -23,4 +23,4 @@ Um pouco sobre mim
 
 ##
 
-![snake gif](https://github.com/joseduardoamorim/joseduardoamorim/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joseduardoamorim/blob/output/github-contribution-grid-snake.svg)
